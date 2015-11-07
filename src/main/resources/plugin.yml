@@ -1,0 +1,10 @@
+name: ThrowItem
+main: net.mcplugin.throwitem.ThrowItemMain
+version: 0.0.1
+author: Henry5041
+commands:
+   throw:
+      description: Enter to throw an item.
+      usage: /<command>
+      permission: <plugin name>.throw
+      permission-message: You don't have <permission>
